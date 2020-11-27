@@ -96,6 +96,10 @@ a {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
+.team-section {
+  margin-top: 5rem;
+}
+
 .container {
   max-width: 1100px;
   padding: 0 30px;
